@@ -171,11 +171,5 @@
 		"ip": "one.lemoncloud.net",
 		"type": "PC",
 		"website": "http://lemoncloud.org/"
-	},
-	{
-		"name": "MCPrison",
-		"ip": "hub.mc-complex.com",
-		"type": "PC",
-		"website": "http://mc-complex.com/"
 	}
 ]
