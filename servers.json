@@ -177,5 +177,11 @@
 		"ip": "hub.mc-complex.com",
 		"type": "PC",
 		"website": "http://mc-complex.com/"
+	},
+	{
+		"name": "MineGlobe",
+		"ip": "play.mineglobe.org",
+		"type": "PC",
+		"website": "http://mineglobe.org"
 	}
 ]
